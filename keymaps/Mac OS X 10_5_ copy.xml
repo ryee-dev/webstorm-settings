@@ -105,9 +105,6 @@
   <action id="TsLintFileFixAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
   </action>
-  <action id="TslintImportCodeStyleAction">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
-  </action>
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
