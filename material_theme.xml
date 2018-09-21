@@ -2,13 +2,17 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.8.3" />
     <option name="selectedTheme" value="DARKER" />
+    <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="FF9800" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="treeFontSize" value="14" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="userId" value="367b0d48:165cda9b470:-8000" />
     <option name="allowDataCollection" value="true" />
+    <option name="treeFontSizeEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="isWizardShown" value="true" />
