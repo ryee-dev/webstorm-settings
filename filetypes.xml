@@ -4,7 +4,6 @@
       <removed_mapping pattern=".env" type=".env file" />
       <mapping pattern=".env" type="Native" />
       <mapping ext="" type="PLAIN_TEXT" />
-      <mapping ext="mdx" type="PLAIN_TEXT" />
       <mapping ext="toml" type="YAML" />
     </extensionMap>
   </component>
