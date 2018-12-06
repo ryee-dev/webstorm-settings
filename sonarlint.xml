@@ -3,6 +3,7 @@
     <option name="excludedRules">
       <set>
         <option value="javascript:S3317" />
+        <option value="javascript:S905" />
       </set>
     </option>
   </component>
