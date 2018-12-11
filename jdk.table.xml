@@ -6,6 +6,9 @@
       <version value="ver.2.4.1p111 ( revision 58053) p111" />
       <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.4.1/bin/ruby" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0" type="simple" />
@@ -19,6 +22,9 @@
             <root url="file://$APPLICATION_HOME_DIR$/rubystubs24" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0" type="simple" />
@@ -41,6 +47,9 @@
       <version value="ver.2.4.1p111 ( revision 58053) p111" />
       <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.4.1/bin/ruby" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/lib" type="simple" />
@@ -55,6 +64,9 @@
             <root url="file://$APPLICATION_HOME_DIR$/rubystubs24" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/lib" type="simple" />
@@ -78,6 +90,9 @@
       <version value="ver.2.5.1p57 ( revision 63029) p57" />
       <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.5.1/bin/ruby" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0" type="simple" />
@@ -91,6 +106,9 @@
             <root url="file://$APPLICATION_HOME_DIR$/rubystubs25" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0" type="simple" />
@@ -113,6 +131,9 @@
       <version value="ver.2.5.1p57 ( revision 63029) p57" />
       <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.5.1/bin/ruby" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/lib" type="simple" />
@@ -127,6 +148,9 @@
             <root url="file://$APPLICATION_HOME_DIR$/rubystubs25" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/did_you_mean-1.2.0/lib" type="simple" />
