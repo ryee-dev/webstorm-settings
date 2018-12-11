@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".env" type="Native" />
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping ext="toml" type="YAML" />
-      <removed_mapping ext="mdx" approved="true" type="Markdown" />
     </extensionMap>
   </component>
 </application>
