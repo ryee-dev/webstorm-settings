@@ -15,7 +15,6 @@
       <keyword name=";" />
     </keywords2>
     <keywords3 keywords="#;##;###;####;#####;######;**" />
-    <keywords4 />
   </highlighting>
   <extensionMap>
     <mapping pattern=".mdx" />
