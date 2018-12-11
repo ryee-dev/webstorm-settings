@@ -1,0 +1,24 @@
+<filetype binary="false" description="aMDX" name="mdx">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="//" />
+      <option name="COMMENT_START" value="/*" />
+      <option name="COMMENT_END" value="*/" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+    </options>
+    <keywords keywords="name;order;route" ignore_case="false" />
+    <keywords2 keywords="&quot;;';(;);/&gt;;&lt;;&lt;/;&gt;;[;];from;import;{;}">
+      <keyword name=";" />
+    </keywords2>
+    <keywords3 keywords="#;##;###;####;#####;######;**" />
+    <keywords4 />
+  </highlighting>
+  <extensionMap>
+    <mapping pattern=".mdx" />
+    <mapping ext="mdx" />
+  </extensionMap>
+</filetype>
