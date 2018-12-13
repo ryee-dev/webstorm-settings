@@ -10,7 +10,6 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl t" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt t" />
   </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift meta f4" />
@@ -20,13 +19,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt x" />
     <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
-  <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt x" />
-  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="ctrl x" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt c" />
   </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
