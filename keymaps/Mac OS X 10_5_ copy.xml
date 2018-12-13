@@ -38,6 +38,7 @@
     <keyboard-shortcut first-keystroke="meta f7" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt f" />
   </action>
+  <action id="Inline" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
   </action>
@@ -54,6 +55,15 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt n" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="meta alt n" />
+  </action>
+  <action id="NewTypeScriptFile">
+    <keyboard-shortcut first-keystroke="ctrl meta n" />
   </action>
   <action id="NextOccurence" />
   <action id="NextTab">
