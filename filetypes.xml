@@ -1,9 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern=".env" type=".env file" />
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern=".env" type="Native" />
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
       <mapping ext="toml" type="YAML" />
