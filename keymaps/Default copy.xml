@@ -11,7 +11,7 @@
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt back_slash" />
   </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
@@ -28,7 +28,7 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt space" />
   </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift meta alt p" />
