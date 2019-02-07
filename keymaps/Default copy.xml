@@ -4,6 +4,10 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt t" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt x" />
   </action>
@@ -34,6 +38,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
   </action>
   <action id="TsLintFileFixAction">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt back_slash" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
 </keymap>
