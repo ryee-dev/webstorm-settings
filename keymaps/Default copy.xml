@@ -31,7 +31,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta alt space" />
   </action>
   <action id="ReformatWithPrettierAction">
-    <keyboard-shortcut first-keystroke="shift meta alt p" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
+  </action>
+  <action id="TsLintFileFixAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
   </action>
 </keymap>
