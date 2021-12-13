@@ -3,7 +3,7 @@
     <property name="created">2020-11-25T11:21:34</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-11-18T03:38:22</property>
+    <property name="modified">2021-12-13T10:10:29</property>
     <property name="originalScheme">Twilight</property>
   </metaInfo>
   <colors>
@@ -873,7 +873,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="1c1c16" />
+        <option name="BACKGROUND" value="252517" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_10_CUSTOM">
@@ -888,7 +888,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="181c18" />
+        <option name="BACKGROUND" value="1c251c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
@@ -898,7 +898,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="1c181c" />
+        <option name="BACKGROUND" value="251c25" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
@@ -908,7 +908,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="161c1c" />
+        <option name="BACKGROUND" value="182323" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
@@ -953,7 +953,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="251616" />
+        <option name="BACKGROUND" value="351818" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR_CUSTOM">

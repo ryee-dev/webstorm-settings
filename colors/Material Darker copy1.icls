@@ -3,7 +3,7 @@
     <property name="created">2021-09-21T02:52:50</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2021-11-18T03:38:22</property>
+    <property name="modified">2021-12-13T10:10:30</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <colors>
@@ -1063,7 +1063,7 @@
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="292922" />
+        <option name="BACKGROUND" value="313123" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_10_CUSTOM">
@@ -1081,7 +1081,7 @@
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="242924" />
+        <option name="BACKGROUND" value="283128" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
@@ -1093,7 +1093,7 @@
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="292429" />
+        <option name="BACKGROUND" value="312831" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
@@ -1105,7 +1105,7 @@
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="232828" />
+        <option name="BACKGROUND" value="242f2f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
@@ -1159,7 +1159,7 @@
     <option name="INDENT_RAINBOW_ERROR">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="302121" />
+        <option name="BACKGROUND" value="3e2121" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR_CUSTOM">

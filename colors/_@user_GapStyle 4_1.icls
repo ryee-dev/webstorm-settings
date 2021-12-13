@@ -3,7 +3,7 @@
     <property name="created">2021-11-12T15:05:41</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-11-18T03:38:22</property>
+    <property name="modified">2021-12-13T10:10:29</property>
     <property name="originalScheme">GapStyle 4.1</property>
   </metaInfo>
   <colors>
@@ -1485,27 +1485,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="34342d" />
+        <option name="BACKGROUND" value="3b3b2d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2f342f" />
+        <option name="BACKGROUND" value="323b32" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="342f34" />
+        <option name="BACKGROUND" value="3b323b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2d3333" />
+        <option name="BACKGROUND" value="2e3a3a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="392a2a" />
+        <option name="BACKGROUND" value="452828" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
