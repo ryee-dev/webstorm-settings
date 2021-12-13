@@ -1,0 +1,45 @@
+<templateSet group="Custom Templates">
+  <template name="ue" value="useEffect(() =&gt; {&#10;  $end$&#10;}, []);" description="Creates a default 'useEffect' instance" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="us" value="const [$state$, set$state_$] = useState($init$);$end$" description="Creates a 'useState' instance" toReformat="false" toShortenFQNames="true">
+    <variable name="state" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="state_" expression="capitalize(state)" defaultValue="" alwaysStopAt="true" />
+    <variable name="init" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="clog" value="console.log(`$item$: ${$item$}`);$END$" description="Inserts a `console.log()` instance" toReformat="false" toShortenFQNames="true">
+    <variable name="item" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="css" value="css`&#10;  $END$&#10;`;" description="Creates a `css` instance from @emotion" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fx" value="display: flex;&#10;align-items: center;&#10;justify-content: center;" description="Inserts centered flex styles" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fxcol" value="display: flex;&#10;align-items: center;&#10;justify-content: center;&#10;flex-direction: column;" description="Inserts centered flex column styles" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="@ti" value="// @ts-ignore" description="Inserts a // &quot;@ts-ignore&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
