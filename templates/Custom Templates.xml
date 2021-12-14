@@ -1,11 +1,11 @@
 <templateSet group="Custom Templates">
-  <template name="ue" value="useEffect(() =&gt; {&#10;  $end$&#10;}, []);" description="Creates a default 'useEffect' instance" toReformat="false" toShortenFQNames="true">
+  <template name="/ue" value="useEffect(() =&gt; {&#10;  $end$&#10;}, []);" description="Creates a default 'useEffect' instance" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="us" value="const [$state$, set$state_$] = useState($init$);$end$" description="Creates a 'useState' instance" toReformat="false" toShortenFQNames="true">
+  <template name="/us" value="const [$state$, set$state_$] = useState($init$);$end$" description="Creates a 'useState' instance" toReformat="false" toShortenFQNames="true">
     <variable name="state" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="state_" expression="capitalize(state)" defaultValue="" alwaysStopAt="true" />
     <variable name="init" expression="" defaultValue="" alwaysStopAt="true" />
