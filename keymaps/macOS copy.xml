@@ -60,6 +60,9 @@
   </action>
   <action id="IntroduceField" />
   <action id="IntroduceVariable" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
+  </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt d" />
