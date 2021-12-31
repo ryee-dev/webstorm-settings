@@ -15,12 +15,8 @@
     <option name="IS_BLOCK_CURSOR" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="disabledHintProviderIds">
-      <set>
-        <option value="JavaScript.js.type.hints" />
-      </set>
-    </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="js.type.hints" />
     <settingsMapElement>
       <TypeScript.ts.type.hints>
         <Settings>
