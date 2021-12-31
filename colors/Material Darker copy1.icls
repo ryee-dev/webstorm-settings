@@ -3,8 +3,9 @@
     <property name="created">2021-09-21T02:52:50</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2021-12-13T10:10:30</property>
+    <property name="modified">2021-12-30T23:18:42</property>
     <property name="originalScheme">_@user_Material Darker</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
@@ -15,7 +16,7 @@
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="171717" />
-    <option name="DOCUMENTATION_COLOR" value="212121" />
+    <option name="DOCUMENTATION_COLOR" value="4a4d64" />
     <option name="FILESTATUS_ADDED" value="a9dc76" />
     <option name="FILESTATUS_COPIED" value="a9dc76" />
     <option name="FILESTATUS_DELETED" value="727072" />
@@ -43,6 +44,7 @@
     <option name="GUTTER_BACKGROUND" value="212121" />
     <option name="INDENT_GUIDE" value="424242" />
     <option name="INFORMATION_HINT" value="171844" />
+    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="773b3b" />
     <option name="LINE_NUMBERS_COLOR" value="424242" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
     <option name="LOOKUP_COLOR" value="212121" />
@@ -438,7 +440,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="585858" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1178,6 +1180,16 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="757575" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="b0bec5" />
@@ -1193,7 +1205,7 @@
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="b0bec5" />
-        <option name="BACKGROUND" value="424242" />
+        <option name="BACKGROUND" value="ff2020" />
       </value>
     </option>
     <option name="IVAR">
@@ -2900,6 +2912,31 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="ee5f5f" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="7275ff" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="ffe868" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="9972ff" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="b1ff7b" />
+      </value>
+    </option>
     <option name="RDOC_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="f07178" />
@@ -3572,13 +3609,13 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4a4d50" />
+        <option name="BACKGROUND" value="414646" />
         <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="424242" />
+        <option name="BACKGROUND" value="6a6a6a" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
