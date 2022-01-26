@@ -5,7 +5,7 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="100" />
+  <option name="RIGHT_MARGIN" value="80" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <DBN-PSQL>
     <case-options enabled="true">
