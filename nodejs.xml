@@ -1,0 +1,11 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="/var/folders/0y/zd6qyqxn1h71_n783yy6h8x00000gn/T/fnm_multishells/10410_1642579867230/bin/node" />
+    <local-interpreter path="/var/folders/0y/zd6qyqxn1h71_n783yy6h8x00000gn/T/fnm_multishells/1264_1643249825377/bin/node" />
+    <local-interpreter path="/var/folders/0y/zd6qyqxn1h71_n783yy6h8x00000gn/T/fnm_multishells/15009_1643164676863/bin/node" />
+    <local-interpreter path="/var/folders/0y/zd6qyqxn1h71_n783yy6h8x00000gn/T/fnm_multishells/6382_1643246456873/bin/node" />
+    <local-interpreter path="/var/folders/0y/zd6qyqxn1h71_n783yy6h8x00000gn/T/fnm_multishells/4596_1643591040647/bin/node" />
+    <local-interpreter path="$USER_HOME$/.node/corepack/pnpm/6.11.0/bin/pnpm.cjs" />
+    <local-interpreter path="/usr/local/Cellar/fnm/1.29.2/bin/fnm" />
+  </component>
+</application>
