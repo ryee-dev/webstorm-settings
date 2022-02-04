@@ -18,6 +18,7 @@
     <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.find.as.popup.decorated" value="true" />
+    <entry key="ide.tree.collapse.recursively" value="false" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
   <component name="StatusBar">
