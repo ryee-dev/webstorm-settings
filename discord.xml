@@ -13,12 +13,14 @@
     <option name="projectIconLargeTextCustom" value="" />
     <option name="projectIconSmallTextCustom" value="" />
     <option name="projectTime" value="APPLICATION" />
-    <option name="fileDetails" value="PROJECT_VCS_BRANCH" />
+    <option name="fileDetails" value="PROJECT_NAME" />
     <option name="fileDetailsCustom" value="" />
-    <option name="fileState" value="FILE_NAME" />
+    <option name="fileState" value="FILE_LANGUAGE" />
     <option name="fileStateCustom" value="" />
+    <option name="fileIconLarge" value="APPLICATION" />
     <option name="fileIconLargeText" value="NONE" />
     <option name="fileIconLargeTextCustom" value="" />
+    <option name="fileIconSmall" value="FILE" />
     <option name="fileIconSmallText" value="NONE" />
     <option name="fileIconSmallTextCustom" value="" />
     <option name="fileTime" value="APPLICATION_TOTAL" />
