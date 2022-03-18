@@ -3,7 +3,7 @@
     <property name="created">2020-01-28T23:01:21</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2021-12-13T10:10:29</property>
+    <property name="modified">2022-03-18T15:15:40</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -952,7 +952,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="373b35" />
+        <option name="BACKGROUND" value="383c46" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_10_CUSTOM">
@@ -967,7 +967,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2e3b39" />
+        <option name="BACKGROUND" value="363f44" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
@@ -977,7 +977,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="373242" />
+        <option name="BACKGROUND" value="3b4043" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
@@ -987,7 +987,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2b3a41" />
+        <option name="BACKGROUND" value="3e3e42" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
@@ -997,7 +997,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="35343b" />
+        <option name="BACKGROUND" value="3e3a41" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
@@ -1007,7 +1007,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="35323a" />
+        <option name="BACKGROUND" value="3e373f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
@@ -1032,7 +1032,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="43282e" />
+        <option name="BACKGROUND" value="3a2a30" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR_CUSTOM">
@@ -1920,7 +1920,7 @@
         <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="" />
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -2156,7 +2156,7 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="e5c07b" />

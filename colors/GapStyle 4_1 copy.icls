@@ -3,7 +3,7 @@
     <property name="created">2021-11-12T15:21:36</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-12-13T10:10:29</property>
+    <property name="modified">2022-03-18T15:15:40</property>
     <property name="originalScheme">_@user_GapStyle 4.1</property>
   </metaInfo>
   <colors>
@@ -1485,27 +1485,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="313123" />
+        <option name="BACKGROUND" value="323235" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="283128" />
+        <option name="BACKGROUND" value="303533" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="312831" />
+        <option name="BACKGROUND" value="343632" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="242f2f" />
+        <option name="BACKGROUND" value="373431" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="373030" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="372d2e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3e2121" />
+        <option name="BACKGROUND" value="342121" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

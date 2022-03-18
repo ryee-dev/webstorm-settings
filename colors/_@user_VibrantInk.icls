@@ -3,7 +3,7 @@
     <property name="created">2020-11-25T11:21:34</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-12-13T10:10:30</property>
+    <property name="modified">2022-03-18T15:15:41</property>
     <property name="originalScheme">VibrantInk</property>
   </metaInfo>
   <colors>
@@ -806,7 +806,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="121205" />
+        <option name="BACKGROUND" value="141518" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_10_CUSTOM">
@@ -821,7 +821,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="91209" />
+        <option name="BACKGROUND" value="121816" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
@@ -831,7 +831,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="120912" />
+        <option name="BACKGROUND" value="171814" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
@@ -841,7 +841,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="61111" />
+        <option name="BACKGROUND" value="1a1613" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
@@ -851,7 +851,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="f0b0a" />
+        <option name="BACKGROUND" value="1a1212" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
@@ -861,7 +861,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="f090a" />
+        <option name="BACKGROUND" value="1a1010" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
@@ -886,7 +886,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="270a0a" />
+        <option name="BACKGROUND" value="1a0707" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR_CUSTOM">

@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2021-12-13T10:10:30</property>
+    <property name="modified">2022-03-18T15:15:41</property>
     <property name="originalScheme">Monokai Pro</property>
     <property name="vendorMail" />
     <property name="vendorName">pastel-ish</property>
@@ -1054,7 +1054,7 @@
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="3c392f" />
+        <option name="BACKGROUND" value="3d3b41" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_10_CUSTOM">
@@ -1072,7 +1072,7 @@
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="333934" />
+        <option name="BACKGROUND" value="3b3d3f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
@@ -1084,7 +1084,7 @@
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="3c303d" />
+        <option name="BACKGROUND" value="3f3e3e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
@@ -1096,7 +1096,7 @@
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="2f383b" />
+        <option name="BACKGROUND" value="423c3d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
@@ -1108,7 +1108,7 @@
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="393236" />
+        <option name="BACKGROUND" value="42383b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
@@ -1120,7 +1120,7 @@
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="393135" />
+        <option name="BACKGROUND" value="42353a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
@@ -1150,7 +1150,7 @@
     <option name="INDENT_RAINBOW_ERROR">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="46272a" />
+        <option name="BACKGROUND" value="3e282b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR_CUSTOM">
