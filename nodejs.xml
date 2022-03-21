@@ -3,6 +3,9 @@
     <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/18099_1647631096200/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
+    <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/1819_1647836069932/bin/node">
+      <version-cache version="16.13.2" last-modified="1641853760000" />
+    </local-interpreter>
     <local-interpreter path="/var/folders/0y/zd6qyqxn1h71_n783yy6h8x00000gn/T/fnm_multishells/10410_1642579867230/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
@@ -17,9 +20,6 @@
     </local-interpreter>
     <local-interpreter path="/var/folders/0y/zd6qyqxn1h71_n783yy6h8x00000gn/T/fnm_multishells/6382_1643246456873/bin/node">
       <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/Library/Caches/fnm_multishells/1819_1647836069932/bin/node">
-      <version-cache version="17.7.0" last-modified="1646841505000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.node/corepack/pnpm/6.11.0/bin/pnpm.cjs">
       <version-cache version="6.11.0" last-modified="499162500000" />
