@@ -1,0 +1,10 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Flow JS/Specify variable type explicitly" />
+    <ignoreAction name="Microservices/Open in web browser" />
+    <ignoreAction name="XSLT/Add optional Argument(s)" />
+    <ignoreAction name="XSLT/Convert 'xsl:if' to 'xsl:choose'" />
+    <ignoreAction name="XSLT/Inline 'xsl:attribute'" />
+    <ignoreAction name="XSLT/Replace with 'xsl:attribute'" />
+  </component>
+</application>

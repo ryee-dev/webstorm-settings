@@ -1,0 +1,16 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="bigger.font.in.project.view" value="true" />
+        <entry key="confirm.rerun.with.termination" value="false" />
+        <entry key="editor.open.inactive.splitter" value="false" />
+        <entry key="ide.max.recent.projects" value="20" />
+        <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
+        <entry key="ide.suppress.double.click.handler" value="true" />
+        <entry key="ide.tree.collapse.recursively" value="false" />
+        <entry key="ide.usages.page.size" value="20" />
+      </map>
+    </option>
+  </component>
+</application>

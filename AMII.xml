@@ -1,0 +1,11 @@
+<application>
+  <component name="Plugin-Config">
+    <option name="infoOnClick" value="false" />
+    <option name="memeVolume" value="30" />
+    <option name="minimalMode" value="true" />
+    <option name="preferredGenders" value="1" />
+    <option name="soundEnabled" value="false" />
+    <option name="userId" value="be063122-70f7-4024-a420-4049d372b5d7" />
+    <option name="version" value="0.14.1" />
+  </component>
+</application>
