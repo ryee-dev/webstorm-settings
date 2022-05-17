@@ -6,6 +6,25 @@
     <option name="AUTOREPARSE_DELAY" value="0" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="CSS" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="Haml" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="Jade" value="true" />
+        <entry key="JavaScript" value="true" />
+        <entry key="LESS" value="true" />
+        <entry key="Markdown" value="true" />
+        <entry key="SASS" value="true" />
+        <entry key="SCSS" value="true" />
+        <entry key="Stylus" value="true" />
+        <entry key="TypeScript" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc, *.js, *.jsx, *.ts, *.tsx" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
@@ -13,14 +32,31 @@
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_BLOCK_CURSOR" value="true" />
+    <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Dockerfile.docker.inlay.hints" />
+        <option value="JavaScript.js.chain.hints" />
+        <option value="JavaScript.js.type.hints" />
+        <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
+        <option value="TypeScript.ts.chain.hints" />
+        <option value="TypeScript.ts.enum.hints" />
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
     <option name="enabled" value="false" />
-    <option name="lastViewedProviderKeyId" value="js.type.hints" />
+    <option name="lastViewedProviderKeyId" value="TypeScript.ts.enum.hints" />
     <settingsMapElement>
+      <JavaScript.js.type.hints>
+        <Settings>
+          <option name="showForInferredParameters" value="false" />
+        </Settings>
+      </JavaScript.js.type.hints>
       <TypeScript.ts.type.hints>
         <Settings>
-          <option name="showForFunctions" value="true" />
+          <option name="showForInferredParameters" value="false" />
         </Settings>
       </TypeScript.ts.type.hints>
     </settingsMapElement>
@@ -32,9 +68,7 @@
     <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
     <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true">
-    <option name="elementHighlighting" value="false" />
-  </component>
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>

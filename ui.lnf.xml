@@ -2,7 +2,9 @@
   <component name="UISettings">
     <option name="compactTreeIndents" value="true" />
     <option name="DISABLE_MNEMONICS" value="false" />
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
