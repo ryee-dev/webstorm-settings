@@ -30,6 +30,7 @@
         <entry key="Memory" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="com.tabnine.lifecycle.TabNineStatusBarWidget" value="false" />
+        <entry key="io.unthrottled.amii.personality.MoodStatusBarProvider" value="false" />
       </map>
     </option>
   </component>
