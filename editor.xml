@@ -46,7 +46,6 @@
         <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
-    <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value="TypeScript.ts.enum.hints" />
     <settingsMapElement>
       <JavaScript.js.type.hints>

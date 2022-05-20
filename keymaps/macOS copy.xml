@@ -58,7 +58,7 @@
   <action id="IntroduceField" />
   <action id="IntroduceVariable" />
   <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt f1" />
   </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -95,15 +95,6 @@
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt quote" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
-  </action>
-  <action id="ReformatWithPrettierAction">
-    <keyboard-shortcut first-keystroke="shift meta alt p" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
-  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -119,7 +110,7 @@
     <keyboard-shortcut first-keystroke="meta alt f" />
   </action>
   <action id="Stylelint.Fix">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt f2" />
   </action>
   <action id="ToggleBookmark4" />
   <action id="ToggleContentUiTypeMode">
