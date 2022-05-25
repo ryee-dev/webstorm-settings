@@ -39,17 +39,13 @@
     <keyboard-shortcut first-keystroke="shift meta alt v" />
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
-  <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="shift meta f" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
-  </action>
-  <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="shift meta a" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt space" />
   </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
@@ -59,6 +55,7 @@
   <action id="IntroduceVariable" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="ctrl meta alt f1" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
   </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl h" />
