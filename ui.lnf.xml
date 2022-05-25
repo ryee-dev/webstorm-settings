@@ -3,6 +3,7 @@
     <option name="compactTreeIndents" value="true" />
     <option name="DISABLE_MNEMONICS" value="false" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+    <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
     <option name="showTreeIndentGuides" value="true" />
