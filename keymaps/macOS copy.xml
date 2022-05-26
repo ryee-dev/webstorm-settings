@@ -96,8 +96,7 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="ctrl meta alt f" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt f" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt space" />
   </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl meta g" />
@@ -108,6 +107,18 @@
   </action>
   <action id="Stylelint.Fix">
     <keyboard-shortcut first-keystroke="ctrl meta alt f2" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabLeft">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabRight">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="TerminalSplitActionBase$Horizontal">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt down" />
+  </action>
+  <action id="TerminalSplitActionBase$Vertical">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt right" />
   </action>
   <action id="ToggleBookmark4" />
   <action id="ToggleContentUiTypeMode">
