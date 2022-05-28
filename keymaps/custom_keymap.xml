@@ -1,4 +1,4 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="custom_keymap" parent="Mac OS X 10.5+">
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="meta alt v" />
   </action>
@@ -28,6 +28,8 @@
   <action id="DiagramsNetNewFile">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt n" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta alt v" />
   </action>
@@ -54,7 +56,6 @@
   <action id="IntroduceField" />
   <action id="IntroduceVariable" />
   <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="ctrl meta alt f1" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
   </action>
   <action id="LocalHistory.ShowHistory">
@@ -62,6 +63,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta alt d" />
   </action>
   <action id="MaintenanceAction" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
@@ -76,12 +83,14 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt right" />
   </action>
+  <action id="NextEditorTab" />
   <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
@@ -91,6 +100,10 @@
   <action id="QuickFixAction">
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt quote" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta w" />
