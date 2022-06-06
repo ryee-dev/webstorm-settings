@@ -1,15 +1,19 @@
 <application>
   <component name="CachedDictionaryState">
     <words>
+      <w>asciiship</w>
       <w>autocd</w>
       <w>automenu</w>
       <w>autopushd</w>
       <w>brewsetta</w>
       <w>cdablevars</w>
       <w>compfix</w>
+      <w>enhancd</w>
       <w>fomantic</w>
       <w>forgit</w>
       <w>globdots</w>
+      <w>ntnyq</w>
+      <w>pnpm</w>
       <w>pushdignoredups</w>
       <w>pushdminus</w>
       <w>pushdsilent</w>
@@ -17,9 +21,13 @@
       <w>rmstarsilent</w>
       <w>setopt</w>
       <w>shwordsplit</w>
+      <w>unixorn</w>
+      <w>wfxr</w>
+      <w>xylous</w>
       <w>zdotdir</w>
       <w>zimfw</w>
       <w>zimrc</w>
+      <w>zmodule</w>
     </words>
   </component>
 </application>
