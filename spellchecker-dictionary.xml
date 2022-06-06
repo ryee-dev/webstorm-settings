@@ -19,6 +19,7 @@
       <w>pushdminus</w>
       <w>pushdsilent</w>
       <w>pushdtohome</w>
+      <w>refetch</w>
       <w>rmstarsilent</w>
       <w>setopt</w>
       <w>shwordsplit</w>
