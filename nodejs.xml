@@ -25,7 +25,7 @@
       <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.node/corepack/pnpm/6.11.0/bin/pnpm.cjs">
-      <version-cache last-modified="0" />
+      <version-cache last-modified="499162500000" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/fnm/1.29.2/bin/fnm">
       <version-cache last-modified="0" />
