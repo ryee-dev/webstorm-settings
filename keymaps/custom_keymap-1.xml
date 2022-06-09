@@ -5,8 +5,14 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt semicolon" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt right" />
+  </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift meta alt p" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt quote" />
+  </action>
+  <action id="TerminalSplitActionBase$Vertical">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt right" />
   </action>
 </keymap>
