@@ -11,9 +11,11 @@
       <w>compfix</w>
       <w>dashname</w>
       <w>enhancd</w>
+      <w>erroring</w>
       <w>fomantic</w>
       <w>forgit</w>
       <w>globdots</w>
+      <w>ilike</w>
       <w>ntnyq</w>
       <w>persister</w>
       <w>pnpm</w>
@@ -25,6 +27,7 @@
       <w>rmstarsilent</w>
       <w>setopt</w>
       <w>shwordsplit</w>
+      <w>timestamptz</w>
       <w>unixorn</w>
       <w>wfxr</w>
       <w>xylous</w>
