@@ -24,6 +24,7 @@
       <w>pushdsilent</w>
       <w>pushdtohome</w>
       <w>refetch</w>
+      <w>renderable</w>
       <w>rmstarsilent</w>
       <w>setopt</w>
       <w>shwordsplit</w>
@@ -36,6 +37,7 @@
       <w>zimrc</w>
       <w>zmodule</w>
       <w>zoxide</w>
+      <w>zustand</w>
     </words>
   </component>
 </application>
