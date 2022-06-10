@@ -1,4 +1,8 @@
 <keymap version="1" name="custom_keymap-1" parent="Mac OS X 10.5+">
+  <action id="ActivateProblemsViewToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt p" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt x" />
   </action>
@@ -11,6 +15,9 @@
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift meta alt p" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt quote" />
+  </action>
+  <action id="Stylelint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt semicolon" />
   </action>
   <action id="TerminalSplitActionBase$Horizontal">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt down" />
