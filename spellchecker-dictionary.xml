@@ -11,27 +11,35 @@
       <w>compfix</w>
       <w>dashname</w>
       <w>enhancd</w>
+      <w>erroring</w>
       <w>fomantic</w>
       <w>forgit</w>
       <w>globdots</w>
+      <w>ilike</w>
+      <w>newvideos</w>
       <w>ntnyq</w>
+      <w>persister</w>
       <w>pnpm</w>
       <w>pushdignoredups</w>
       <w>pushdminus</w>
       <w>pushdsilent</w>
       <w>pushdtohome</w>
       <w>refetch</w>
+      <w>renderable</w>
       <w>rmstarsilent</w>
       <w>setopt</w>
       <w>shwordsplit</w>
+      <w>timestamptz</w>
       <w>unixorn</w>
       <w>wfxr</w>
+      <w>xrange</w>
       <w>xylous</w>
       <w>zdotdir</w>
       <w>zimfw</w>
       <w>zimrc</w>
       <w>zmodule</w>
       <w>zoxide</w>
+      <w>zustand</w>
     </words>
   </component>
 </application>
