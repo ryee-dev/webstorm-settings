@@ -32,6 +32,7 @@
       <w>timestamptz</w>
       <w>unixorn</w>
       <w>wfxr</w>
+      <w>xbytes</w>
       <w>xrange</w>
       <w>xylous</w>
       <w>zdotdir</w>
