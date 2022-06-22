@@ -1,0 +1,5 @@
+<application>
+  <component name="JavaScript">
+    <option name="onlyTopLevelReturns" value="true" />
+  </component>
+</application>
