@@ -10,12 +10,14 @@
       <w>cdablevars</w>
       <w>compfix</w>
       <w>dashname</w>
+      <w>displaylogo</w>
       <w>enhancd</w>
       <w>erroring</w>
       <w>fomantic</w>
       <w>forgit</w>
       <w>globdots</w>
       <w>ilike</w>
+      <w>kparser</w>
       <w>newvideos</w>
       <w>ntnyq</w>
       <w>persister</w>
@@ -32,6 +34,7 @@
       <w>timestamptz</w>
       <w>unixorn</w>
       <w>wfxr</w>
+      <w>xbytes</w>
       <w>xrange</w>
       <w>xylous</w>
       <w>zdotdir</w>
