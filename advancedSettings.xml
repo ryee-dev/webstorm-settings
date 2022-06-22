@@ -12,7 +12,6 @@
         <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
         <entry key="ide.tree.collapse.recursively" value="false" />
         <entry key="ide.usages.page.size" value="20" />
-        <entry key="se.text.search" value="true" />
         <entry key="searcheverywhere.ml.sort.files" value="true" />
         <entry key="ssh.config.backend" value="OPENSSH" />
         <entry key="vcs.annotations.preload" value="true" />
