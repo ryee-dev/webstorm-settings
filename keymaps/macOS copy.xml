@@ -1,5 +1,0 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="ExportSettings">
-    <keyboard-shortcut first-keystroke="ctrl meta e" />
-  </action>
-</keymap>
