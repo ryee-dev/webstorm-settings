@@ -1,0 +1,3 @@
+<templateSet group="user">
+  <template name="asdfasfd" value="adsfadsf" description="adsf" toReformat="false" toShortenFQNames="true" />
+</templateSet>
